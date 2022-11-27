@@ -65,7 +65,7 @@ body:before {
     right: 0;
     bottom: 0;
     left: 0;
-    background: url(../images/background.jpg) center 0 no-repeat;
+    background: url(../images/background.webp) center 0 no-repeat;
     background-size: cover;
 }
 
